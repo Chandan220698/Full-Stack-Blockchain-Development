@@ -1,10 +1,10 @@
 // Some inbuilt function
 
-let value = Number("987")  // Convert string number to number
+let value = Number("987")  //Inbuilt function Number: Convert string number to number
 console.log(value, typeof value)
 
 
-let value2 = Number("987 String")  // Convert string number to number
+let value2 = Number("987 String")  // Number function unable to conver this string value here so NaN
 console.log(value2, typeof value2)
 
 let value3 = parseInt("987 String")
