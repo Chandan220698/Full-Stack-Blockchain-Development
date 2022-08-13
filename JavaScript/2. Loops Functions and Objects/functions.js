@@ -1,3 +1,5 @@
+// js is functional programming
+
 // function are first-class citizens
 // DRY - Dont Repeat Yourself
 // Hoisting - Because of this concept we can use function calling before function defination also
